@@ -374,6 +374,7 @@
 
 - [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
+- [Django](https://github.com/wsvincent/awesome-django#readme) Python framework
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
 - [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
